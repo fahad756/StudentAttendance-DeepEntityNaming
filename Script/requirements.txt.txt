@@ -1,0 +1,5 @@
+csv
+opencv-python
+numpy
+face-recognition
+mysql-connector-python
